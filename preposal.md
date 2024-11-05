@@ -2,7 +2,14 @@
 
 ## What idea(s) do you have for your final project?
 
-I want to make a video game similar to JackBox that my friends and I can use on Discord or in person. I would like to make it my own by drawing the visuals of well known memes and having my friends do some voice lines. I'll probably do only three mini games: button smashing race, a jumping over hurdles type of thing where it progressively gets faster, and a redlight/greenlight. I'm not really sure if that's realistic considering the time restraint. 
+Party games
+    similar to JackBox to use in Discord or in person
+    with draw meme visuals 
+    friends voice lines
+    3 games: button smash race, hurdles race, redlight/greenlight race
+
+Discord bot that's judgemental towards my friends by sending reaction memes to the questionable things they usually say
+    ex: friend types something about about Valorant and bot sends a side-eye     
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
@@ -10,4 +17,4 @@ N/A
 
 ## Do you have any questions of your own?
 
-Is three mini games realistic for someone new to code? Do you have any suggestions of alternative games because I feel like the ones I thought about are all the same in a way? 
+N/A
