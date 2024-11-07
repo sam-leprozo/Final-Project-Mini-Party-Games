@@ -14,7 +14,7 @@ The party video game will be made through discord's developer, be for 4-6 people
 
 This will be a 2-D game with hand drawn visuals and friends making the audio. I primarily want to do this for my small discord server with friends since we use the available Discord activities all the time. 
 
-There needs to be a lobby where we wait for all players, a scoreboard screen shown between each mini game, and a winner screen showing who the most games. 
+There needs to be a lobby where we wait for all players, a scoreboard screen shown between each mini game, and a winner screen showing who won the most games. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
