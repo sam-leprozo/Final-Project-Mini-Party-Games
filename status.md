@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Samantha Leprozo
 
 #### Your section leader's name
 
-TODO
+David Loder
 
 #### Project title
 
-TODO
+PartyClash
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+So far I have all the visuals like my drawings of characters and backgrounds for my Discord activity. I also have the majority of the sound effects that I recorded with friends over break ready. So far I can move past the beginning/lobby waiting room. 
 
 #### What have you not done for your project yet?
 
-TODO
+I have not gotten either of the three mini games done yet. I have started the first one, but this is turning out to be a bit more than I can chew. I still ideally want to be able to get one game and a scoreboard working by the deadline. 
 
 #### What problems, if any, have you encountered?
 
-TODO
+I have mainly run into sintax errors from typos. Luckily the coding part isn't too crazy with the help of the resources from Discord. It is just very time consuming. 
