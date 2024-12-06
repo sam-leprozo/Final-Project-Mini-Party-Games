@@ -18,7 +18,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-So far I have all the visuals like my drawings of characters and backgrounds for my Discord activity. I also have the majority of the sound effects that I recorded with friends over break ready. So far I can move past the beginning/lobby waiting room. I have also decided on the three mini games I want to do: quick draw, typing race, and maze race. 
+So far I have all the visuals like my drawings of characters and backgrounds for my Discord activity. I also have the majority of the sound effects that I recorded with friends over break ready. So far I can move past the beginning/lobby waiting room. I have also decided on the three mini games I want to do: quick draw, typing race, and maze race. I also settled on using Unity to create the mini games. 
 
 #### What have you not done for your project yet?
 
