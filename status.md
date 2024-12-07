@@ -26,4 +26,4 @@ I have not gotten either of the three mini games done yet. I have started the fi
 
 #### What problems, if any, have you encountered?
 
-I have mainly run into sintax errors from typos. Luckily the coding part isn't too crazy with the help of the resources from Discord. It is just very time consuming. 
+I have mainly run into syntax errors from typos and because a lot of the available resources for Unity are for C+ script. The syntax difference is a little confusing because python seems more straight forward.
